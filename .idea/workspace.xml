@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="791b6f19-5f93-40a1-9b0d-52af1f80add1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="962833445">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="16" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.12" value="3" />
+          <entry key="project.open.time.13" value="3" />
+          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.2" value="6" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="3" />
+          <entry key="html" value="6" />
+          <entry key="js" value="2" />
+          <entry key="png" value="1" />
+          <entry key="py" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="3" />
+          <entry key="HTML" value="6" />
+          <entry key="Image" value="1" />
+          <entry key="JavaScript" value="2" />
+          <entry key="Python" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="123" />
+          <entry key="html" value="2556" />
+          <entry key="py" value="572" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="123" />
+          <entry key="HTML" value="2556" />
+          <entry key="Python" value="572" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example_app/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="900">
+              <caret line="67" selection-start-line="67" selection-end-line="67" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example_app/templates/nav.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example_app/static/css/custom.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example_app/static/js/jquery.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104445">
+              <caret line="6963" column="44" selection-start-line="6963" selection-start-column="41" selection-end-line="6963" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example_app/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example_app/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/example_app/templates/app.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="221" column="31" selection-start-line="221" selection-start-column="31" selection-end-line="221" selection-end-column="31" />
+              <folding>
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>\{\% load staticfiles \%\}\n\&lt;\!doctype html\&gt;\n\&lt;html\&gt;\n  \&lt;head\&gt;\n    \&lt;title\&gt;Django ChatBot\&lt;\/title\&gt;\n    \&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;\{\% static \'css\/bootstrap\.css\' \%\}\&quot;\/\&gt;\n    \&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;\{\% static \'css\/custom\.css\' \%\}\&quot;\/\&gt;\n  \&lt;\/head\&gt;\n  \&lt;body\&gt;\n\n    \{\% include \'nav\.html\' \%\}\n\n    \&lt;div class\=\&quot;container\&quot;\&gt;\n\n      \&lt;\!\-\-\&lt;div class\=\&quot;jumbotron mt\-1\&quot;\&gt;\-\-\&gt;\n        \&lt;h1 class\=\&quot;jumbotron\-heading text\-xs\-center\&quot;\&gt;Django ChatBot\&lt;\/h1\&gt;\n\n        \&lt;\!\-\-\&lt;p id\=\&quot;chatterboturl\&quot; class\=\&quot;lead text\-xs\-center\&quot;\&gt;\-\-\&gt;\n          \&lt;\!\-\-This is a web app that allows you to talk to ChatterBot\.\-\-\&gt;\n        \&lt;\!\-\-\&lt;\/p\&gt;\-\-\&gt;\n\n        \&lt;hr class\=\&quot;my\-2\&quot;\&gt;\n\n        \&lt;div class\=\&quot;row\&quot;\&gt;\n          \&lt;div \&gt;\n            \&lt;ul class\=\&quot;list\-group chat\-log js\-chat\-log\&quot;\&gt;\n            \&lt;\/ul\&gt;\n\n\n            \n          \&lt;\/div\&gt;\n        \&lt;\/div\&gt;\n      \&lt;div class\=\&quot;sticky\-bottom\&quot; style\=\&quot;position\: sticky\&quot;\&gt;\n      \&lt;div class\=\&quot;input\-group input\-group\-lg mt\-1\&quot;\&gt;\n              \&lt;input type\=\&quot;text\&quot; class\=\&quot;form\-control js\-text\&quot; placeholder\=\&quot;Type something to begin\.\.\.\&quot;\/\&gt;\n              \&lt;span class\=\&quot;input\-group\-btn\&quot;\&gt;\n                \&lt;button type\=\&quot;button\&quot; class\=\&quot;btn btn\-outline\-success js\-say\&quot;\&gt;Send\&lt;\/button\&gt;\n              \&lt;\/span\&gt;\n            \&lt;\/div\&gt;\n        \&lt;\/div\&gt;\n      \&lt;\/div\&gt;\n\n    \&lt;\!\-\-\&lt;\/div\&gt;\-\-\&gt;\n\n    \&lt;script src\=\&quot;\{\% static \'js\/jquery\.js\' \%\}\&quot;\&gt;\&lt;\/script\&gt;\n    \&lt;script src\=\&quot;\{\% static \'js\/js\.cookie\.js\' \%\}\&quot;\&gt;\&lt;\/script\&gt;\n    \&lt;script src\=\&quot;\{\% static \'js\/bootstrap\.js\' \%\}\&quot;\&gt;\&lt;\/script\&gt;\n    \&lt;script\&gt;\n      var chatterbotUrl \= \'\{\% url \'chatterbot\:chatterbot\' \%\}\'\;\n      var csrftoken \= Cookies\.get\(\'csrftoken\'\)\;\n      function csrfSafeMethod\(method\) \{\n        \/\/ these HTTP methods do not require CSRF protection\n        return \(\/\^\(GET\|HEAD\|OPTIONS\|TRACE\)\$\/\.test\(method\)\)\;\n      \}\n\n      \$\.ajaxSetup\(\{\n        beforeSend\: function\(xhr\, settings\) \{\n          if \(\!csrfSafeMethod\(settings\.type\) \&amp;\&amp; \!this\.crossDomain\) \{\n            xhr\.setRequestHeader\(\&quot;X\-CSRFToken\&quot;\, csrftoken\)\;\n          \}\n        \}\n      \}\)\;\n\n      var \$chatlog \= \$\(\'\.js\-chat\-log\'\)\;\n      var \$input \= \$\(\'\.js\-text\'\)\;\n      var \$sayButton \= \$\(\'\.js\-say\'\)\;\n\n      function createRow\(text\) \{\n        var \$row \= \$\(\'\&lt;li class\=\&quot;list\-group\-item\&quot;\&gt;\&lt;\/li\&gt;\'\)\;\n\n        \$row\.text\(text\)\;\n        \$chatlog\.append\(\$row\)\;\n      \}\n\n      function submitInput\(\) \{\n        var inputData \= \{\n          \'text\'\: \$input\.val\(\)\n        \}\n\n        \/\/ Display the user\'s input on the web page\n        createRow\(inputData\.text\)\;\n\n        var \$submit \= \$\.ajax\(\{\n          type\: \'POST\'\,\n          url\: chatterbotUrl\,\n          data\: JSON\.stringify\(inputData\)\,\n          contentType\: \'application\/json\'\n        \}\)\;\n\n        \$submit\.done\(function\(statement\) \{\n            createRow\(statement\.text\)\;\n\n            \/\/ Clear the input field\n            \$input\.val\(\'\'\)\;\n\n            \/\/ Scroll to the bottom of the chat interface\n            \$chatlog\[0\]\.scrollTop \= \$chatlog\[0\]\.scrollHeight\;\n        \}\)\;\n\n        \$submit\.fail\(function\(\) \{\n          \/\/ TODO\: Handle errors\n        \}\)\;\n      \}\n\n      \$sayButton\.click\(function\(\) \{\n        submitInput\(\)\;\n      \}\)\;\n\n      \$input\.keydown\(function\(event\) \{\n        \/\/ Submit the input when the enter button is pressed\n        if \(event\.keyCode \=\= 13\) \{\n          submitInput\(\)\;\n        \}\n      \}\)\;\n    \&lt;\/script\&gt;\n  \&lt;\/body\&gt;\n\&lt;\/html\&gt;\n</find>
+      <find>js-chat-log</find>
+      <find>url</find>
+      <find>nth-child</find>
+      <find>list-group-item</find>
+      <find>createR</find>
+      <find>js-text</find>
+      <find>$sayButton</find>
+      <find>storeData</find>
+      <find>chat-log</find>
+      <find>createRow</find>
+      <find>Ok</find>
+      <find>train_request</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/example_app/urls.py" />
+        <option value="$PROJECT_DIR$/example_app/static/css/custom.css" />
+        <option value="$PROJECT_DIR$/example_app/templates/nav.html" />
+        <option value="$PROJECT_DIR$/example_app/settings.py" />
+        <option value="$PROJECT_DIR$/example_app/views.py" />
+        <option value="$PROJECT_DIR$/example_app/templates/app.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="47" />
+    <option name="width" value="1221" />
+    <option name="height" value="599" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="django_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django_app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="django_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django_app" type="462c0819:PsiDirectoryNode" />
+              <item name="example_app" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../channels-example-master" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="791b6f19-5f93-40a1-9b0d-52af1f80add1" name="Default Changelist" comment="" />
+      <created>1537417533227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537417533227</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1366" height="698" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24720775" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32982457" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/example_app/static/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="718" selection-start-line="5" selection-start-column="718" selection-end-line="5" selection-end-column="718" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example_app/static/img/chatterbot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example_app/static/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2250" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/channels/testing/http.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example_app/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example_app/templates/nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example_app/static/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example_app/static/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104445">
+          <caret line="6963" column="44" selection-start-line="6963" selection-start-column="41" selection-end-line="6963" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example_app/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example_app/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example_app/templates/app.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="221" column="31" selection-start-line="221" selection-start-column="31" selection-end-line="221" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
